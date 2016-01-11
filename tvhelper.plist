@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://download.handsight.cn/tvhelper_1.5.1231A.ipa</string>
+                   <string>http://download.handsight.cn/tvhelper_1.5.0111A2.ipa</string>
                </dict>
            </array>
            <key>metadata</key>
@@ -19,11 +19,11 @@
                <key>bundle-identifier</key>
                <string>com.handsight.tvhelperqiye</string>
                <key>bundle-version</key>
-               <string>tvhelper_1.5.1231A.ipa</string>
+               <string>tvhelper_1.5.0111A2.ipa</string>
                <key>kind</key>
                <string>software</string> 
                <key>title</key>
-               <string>视动无限1.5.1231A</string>
+               <string>视动无限1.5.0111A2.ipa</string>
            </dict>
        </dict>
    </array>
