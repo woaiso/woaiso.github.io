@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://download.handsight.cn/beta/tvhelper1.5.0119Beta.ipa</string>
+                   <string>http://download.handsight.cn/beta/tvhelper_1.5.0122_beta.ipa</string>
                </dict>
            </array>
            <key>metadata</key>
@@ -19,11 +19,11 @@
                <key>bundle-identifier</key>
                <string>com.handsight.tvhelperqiye</string>
                <key>bundle-version</key>
-               <string>tvhelper1.5.0119Beta.ipa</string>
+               <string>tvhelper_1.5.0122_beta.ipa</string>
                <key>kind</key>
                <string>software</string> 
                <key>title</key>
-               <string>视动无限tvhelper1.5.0119Beta版,仅供内部测试使用</string>
+               <string>视动无限tvhelper_1.5.0122_beta版,仅供内部测试使用</string>
            </dict>
        </dict>
    </array>
