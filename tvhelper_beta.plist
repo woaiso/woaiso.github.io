@@ -19,11 +19,11 @@
                <key>bundle-identifier</key>
                <string>com.handsight.tvhelperqiye</string>
                <key>bundle-version</key>
-               <string>1.5.0202beta.ipa</string>
+               <string>1.5.0203Beta</string>
                <key>kind</key>
                <string>software</string> 
                <key>title</key>
-               <string>视动无限1.5.0202beta,仅供内部测试使用</string>
+               <string>视动无限1.5.0203Beta,仅供内部测试使用</string>
            </dict>
        </dict>
    </array>
