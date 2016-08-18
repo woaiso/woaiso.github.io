@@ -5382,7 +5382,7 @@ var rules = [
   "||ntbna.gov.tw",
   "||ntsna.gov.tw",
   "taipei.gov.tw",
-  "||*.google-analytics.com"
+  "||www.google-analytics.com"
   "@@||tax.nat.gov.tw",
   "@@||moe.gov.tw",
   "@@||npm.gov.tw",
